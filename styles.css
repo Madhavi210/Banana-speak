@@ -27,7 +27,7 @@ body {
     display: inline-block;
     margin: 20px auto;
     background-color: #f5e050;
-    border: 3px solid skyblue;
+    border: 3px solid hsl(69, 88%, 25%);
     margin: 1rem 0rem;
     padding: 1rem 2rem;
     font-size: large;
@@ -37,7 +37,7 @@ body {
   h1 {
     text-align: center;
     background-color: #f5e050;
-    border-bottom: 3px solid skyblue;
+    border-bottom: 3px solid hsl(69, 88%, 25%);
     margin: 0;
     padding: 20px 0;
     font-size: 2em;
@@ -58,7 +58,7 @@ body {
   /* footer */
   footer {
     background-color: #f5e050;
-    border-top: 3px solid skyblue;
+    border-top: 3px solid hsl(69, 88%, 25%);
     text-align: center;
     box-sizing: border-box;
   }
